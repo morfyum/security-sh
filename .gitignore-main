@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+*
+RPM-GPG-KEY-MORFYUM.pub
+
+# Exceptions
+!*000-ready-to-build*
+!RPMS/noarch/*.rpm
+=======
+RPM-GPG-KEY-MORFYUM.pub
+>>>>>>> dev
