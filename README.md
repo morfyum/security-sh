@@ -1,3 +1,25 @@
+# Intallation
+
+Install on Fedora, CentOS, and RedHat from copr repo:
+```sh
+dnf copr enable morfyum/security-sh
+```
+
+You can Download the latest `security-sh.sh` script from `000-ready-to-build/` and copy to `/usr/local/bin/`
+
+```sh
+wget https://github.com/morfyum/security-sh/blob/main/000-ready-to-build/security-sh-0.1.0/security-sh.sh
+
+sudo cp ./security-sh.sh /usr/local/bin/
+sudo chmod 755 /usr/local/bin/security-sh.sh
+```
+
+Use `security-sh`:
+```sh
+security-sh.sh
+```
+
+
 # Build RPM package 
 
 ## [ 1 ] Install required packages
