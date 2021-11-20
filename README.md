@@ -95,7 +95,7 @@ rpmdev-newspec ./SPECS/my-program.spec
 ### Edit .spec file by your prefeferences
 
 
-# [ 5 ] BUILD YOUR RPM PACKAGE BY .spec FILE
+## [ 5 ] BUILD YOUR RPM PACKAGE BY .spec FILE
 
 ```sh
 # Create .src rpm package
