@@ -1,6 +1,6 @@
 # Intallation
 
-Install on Fedora, CentOS, and RedHat from copr repo:
+Install on `Fedora`, `CentOS`, and `RedHat` from copr repo:
 
 ```sh
 sudo dnf copr enable morfyum/security-sh
