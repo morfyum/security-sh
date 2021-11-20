@@ -1,4 +1,4 @@
-# Intallation
+# Installation
 
 Install on `Fedora`, `CentOS`, and `RedHat` from copr repo:
 
